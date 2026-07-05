@@ -1,0 +1,15 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\khale\OneDrive\سطح المكتب\Inventory System\ConsoleApplication1\ConsoleApplication1.cpp(32,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\khale\OneDrive\سطح المكتب\Inventory System\ConsoleApplication1\ConsoleApplication1.cpp(228,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\khale\OneDrive\سطح المكتب\Inventory System\ConsoleApplication1\ConsoleApplication1.cpp(228,54): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\khale\OneDrive\سطح المكتب\Inventory System\ConsoleApplication1\ConsoleApplication1.cpp(229,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\khale\OneDrive\سطح المكتب\Inventory System\ConsoleApplication1\ConsoleApplication1.cpp(229,62): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\khale\OneDrive\سطح المكتب\Inventory System\ConsoleApplication1\ConsoleApplication1.cpp(304,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\khale\OneDrive\سطح المكتب\Inventory System\ConsoleApplication1\ConsoleApplication1.cpp(304,56): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\khale\OneDrive\سطح المكتب\Inventory System\ConsoleApplication1\ConsoleApplication1.cpp(305,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\khale\OneDrive\سطح المكتب\Inventory System\ConsoleApplication1\ConsoleApplication1.cpp(305,66): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\khale\OneDrive\سطح المكتب\Inventory System\ConsoleApplication1\ConsoleApplication1.cpp(308,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\khale\OneDrive\سطح المكتب\Inventory System\ConsoleApplication1\ConsoleApplication1.cpp(308,56): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\khale\OneDrive\سطح المكتب\Inventory System\ConsoleApplication1\ConsoleApplication1.cpp(309,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\khale\OneDrive\سطح المكتب\Inventory System\ConsoleApplication1\ConsoleApplication1.cpp(309,66): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\khale\OneDrive\سطح المكتب\Inventory System\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
